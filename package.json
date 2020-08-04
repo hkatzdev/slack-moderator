@@ -1,0 +1,27 @@
+{
+  "name": "slack-mod",
+  "version": "0.1.0",
+  "description": "Slack Channel Moderator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkatzdev/slack-moderator.git"
+  },
+  "keywords": [
+    "slack",
+    "moderator"
+  ],
+  "author": "Harrison Katz (hkatzdev)",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/hkatzdev/slack-moderator/issues"
+  },
+  "homepage": "https://github.com/hkatzdev/slack-moderator#readme",
+  "dependencies": {
+    "@slack/bolt": "^2.2.3",
+    "node-lmdb": "^0.9.3"
+  }
+}
