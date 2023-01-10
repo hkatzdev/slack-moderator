@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/hkatzdev/slack-moderator#readme",
   "dependencies": {
-    "@slack/bolt": "^2.2.3",
+    "@slack/bolt": "^3.12.2",
     "node-lmdb": "^0.9.3"
   }
 }
